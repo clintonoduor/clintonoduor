@@ -20,7 +20,7 @@
 - 😄 Pronouns: He/Him/His
 
 
-[![Clinton's Github Stats](https://github-readme-stats.vercel.app/api?username=Jcardif&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clintonoduor&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Clinton's Github Stats](https://github-readme-stats.vercel.app/api?username=clintonoduor&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clintonoduor&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Clinton's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=clintonoduor&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
