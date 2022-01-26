@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on everything Ml and Embedded Ml
+- 🔭 I’m currently working on Ml and Embedded Ml
 - 🌱 I’m currently learning all about open source
 - 👯 I’m looking to collaborate on any Embedded ML project #tinyML.
 - 💬 Ask me anything tech!
