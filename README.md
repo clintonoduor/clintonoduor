@@ -3,7 +3,7 @@
 <a href="https://twitter.com/oduor_c">
   <img align="left" alt="Clinton's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/oduorc">
+<a href="https://linkedin.com/in/oduor_c">
   <img align="left" alt="Clinton's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/clintonoduor">
