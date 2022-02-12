@@ -13,7 +13,7 @@
 <br/>
 
 - 🔭 I’m currently working on Ml and Embedded Ml
-- 🌱 I’m currently learning all about open source
+- 🌱 I’m currently learning all about intelligent video analytics workloads at the edge.
 - 👯 I’m looking to collaborate on any Embedded ML project #tinyML.
 - 💬 Ask me anything tech!
 - 📫 How to reach me: clintonoduor3@gmail.com
